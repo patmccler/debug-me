@@ -89,3 +89,5 @@ Enter a command to continue. Type 'help' for a list of commands.
 
 ## Resources
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/) - [Exception and Error Handling](http://ruby.bastardsbook.com/chapters/exception-handling/)
+
+<a href='https://learn.co/lessons/debug-me' data-visibility='hidden'>View this lesson on Learn.co</a>
